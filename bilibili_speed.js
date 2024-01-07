@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         哔哩哔哩倍速
-// @namespace    http://tampermonkey.net/
-// @version      2024-01-06
-// @description  try to take over the world!
+// @namespace    https://github.com/Mzying2001/bilibili_speed/
+// @version      1.0.0
+// @description  让B站支持三倍速和四倍速
 // @author       Mzying2001
 // @match        http*://www.bilibili.com/video/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bilibili.com
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function () {
